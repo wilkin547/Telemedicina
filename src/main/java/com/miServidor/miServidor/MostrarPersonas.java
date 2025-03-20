@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 public class MostrarPersonas {
     public static void main(String[] args) {
-        String url = "jdbc:mysql://localhost:3306/telemedicina";
+        String url = "jdbc:mysql://192.168.1.3/telemedicina";
         String usuario = "root";
         String contraseña = "patatagaming2323@#";
 
